@@ -1,0 +1,4 @@
+T-shirt     Yellow  10  20,5
+Jean        Blue    30  10,5
+Jacket      Black   40  12,6
+Sweatshirt  Red     25  12,5
